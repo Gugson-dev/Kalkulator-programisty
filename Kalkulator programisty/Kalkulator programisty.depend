@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1671481708 source:c:\users\gugson\desktop\kalkulator programisty\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<limits>
+	<bitset>
+
+1671593626 source:c:\users\gugson\desktop\wa¿ne gówna\informatic stuff\szko³a\semestr v\zaawansowane programowanie w c++\kalkulator programisty\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<limits>
+	<cctype>
+	<regex>
+
